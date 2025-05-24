@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-8.3.5, pluggy-1.6.0 -- /root/test-automation/venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /root/test-automation
+collecting ... collected 1 item
+
+tests/test_login_about.py::test_login_and_about_font_size PASSED         [100%]
+
+============================== 1 passed in 6.49s ===============================

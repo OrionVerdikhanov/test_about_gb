@@ -1,0 +1,8 @@
+login_page:
+  username: "form#login input[type='text']"
+  password: "form#login input[type='password']"
+  submit:   "form#login button[type='submit']"
+
+about_page:
+  about_link: "nav a[href='/about']"
+  header:     "main h1"
